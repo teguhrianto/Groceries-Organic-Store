@@ -1,4 +1,4 @@
-# Free Bootstrap 4 Template - Groceries Organic Store
+# Groceries Organic Store - Free Bootstrap 4 Template
 **Groceries Organic Store** is a responsive Bootstrap 4 Ecommerce Template. It provides you with a collection of ready to use some pages. You can use and customize this template as you want.
 
 ## Demo
