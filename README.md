@@ -2,7 +2,7 @@
 **Groceries Organic Store** is a responsive Bootstrap 4 Ecommerce Template. It provides you with a collection of ready to use some pages. You can use and customize this template as you want.
 
 ## Demo
-[See DEMO](https://teguhrianto.github.io/CSS-Simply-Linear-Preloader/)
+[See DEMO](https://teguhrianto.github.io/Groceries-Organic-Store/)
 
 ## Built With
 - [O2System UI](http://o2system.id/)
