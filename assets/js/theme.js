@@ -102,14 +102,4 @@ $(document).ready(function(){
         max: 50
     });
 
-    CloudZoom.quickStart();
-    // Initialize the slider.
-    $(function() {
-        $('.slider-thumbnail').Thumbelina({
-            orientation:'horizontal',         // Use vertical mode (default horizontal).
-            $bwdBut:$('.slider-thumbnail .left'),     // Selector to top button.
-            $fwdBut:$('.slider-thumbnail .right')   // Selector to bottom button.
-        });
-    });
-
 });
