@@ -18,7 +18,7 @@
 - [Font Awesome 5](http://fontawesome.com/)
 
 ## Ideas and Suggestions
-Please kindly mail me at [teguh@circle-creative.com](mailto:teguh@circle-creative.com])
+Please kindly mail me at [teguh.rianto22@gmail.com](mailto:teguh.rianto22@gmail.com])
 
 ## Support Me
 <a href="https://patreon.com/teguhrianto"><img src="https://img.shields.io/endpoint.svg?url=https://moshef9.wixsite.com/patreon-badge/_functions/badge/?username=teguhrianto" alt="Patreon donate button" /> </a>
