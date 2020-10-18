@@ -7,8 +7,8 @@
 [See DEMO](https://groceries.teguhrianto.my.id)
 
 ## Built With
-- [O2System UI](http://o2system.id/)
-- [Bootstrap](http://getbootstrap.com/)
+- [O2System UI(user interface)](http://o2system.id/)
+- [Bootstrap4](http://getbootstrap.com/)
 - [Popper.js](https://popper.js.org/)
 - [jQuery](https://jquery.com/)
 - [Pace](https://github.com/HubSpot/pace) - website preloader
